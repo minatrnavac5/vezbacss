@@ -1,0 +1,15 @@
+#ime{
+    text-align: center;
+    color: rgb(127, 255, 0);
+    border: 1px  dashed slateblue;
+}
+body{
+    background-color: grey;
+    color:crimson ;
+}
+#hobi{
+padding-left: 20px;
+font-size: medium;
+
+
+}
